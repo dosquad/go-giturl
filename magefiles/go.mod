@@ -2,7 +2,7 @@ module github.com/dosquad/go-giturl/magefiles
 
 go 1.22.2
 
-toolchain go1.22.3
+toolchain go1.22.2
 
 require (
 	github.com/dosquad/mage v0.0.0-20240529044739-6659954935a6
